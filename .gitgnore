@@ -1,0 +1,17 @@
+
+
+# results
+results/
+workdir/
+*.bam
+*.fastq
+*.fq
+*.sam
+*.log
+
+# conda environments
+.env/
+.conda/
+
+# temp files
+.snakemake/
